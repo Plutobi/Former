@@ -1,7 +1,7 @@
 - 👋 Hi, I’m oluwatobi
 - 👀 I’m interested in working on data science with python
 - 🌱 I’m currently learning datascience with python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me alabioluwatobi2000@gmail.com
 
 <!---
